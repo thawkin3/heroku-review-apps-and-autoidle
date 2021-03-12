@@ -1,0 +1,27 @@
+{
+  "name": "heroku-review-apps-and-autoidle",
+  "version": "0.0.0",
+  "description": "This project utilizes Heroku to create review apps for pull requests in GitHub. It also uses AutoIdle to automatically put review apps to sleep when not in use, saving you money.",
+  "engines": {
+    "node": ">=12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thawkin3/heroku-review-apps-and-autoidle"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "autoidle",
+    "review app"
+  ],
+  "license": "MIT"
+}

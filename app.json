@@ -1,0 +1,8 @@
+{
+  "name": "Heroku Review Apps and AutoIdle",
+  "description": "This project utilizes Heroku to create review apps for pull requests in GitHub. It also uses AutoIdle to automatically put review apps to sleep when not in use, saving you money.",
+  "repository": "https://github.com/thawkin3/heroku-review-apps-and-autoidle",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "express", "heroku", "autoidle", "review app"],
+  "image": "heroku/nodejs"
+}
