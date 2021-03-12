@@ -31,5 +31,6 @@ or
 - [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 - [Heroku Pipelines](https://devcenter.heroku.com/articles/pipelines)
 - [Heroku Review Apps](https://devcenter.heroku.com/articles/github-integration-review-apps)
+- [Review apps management and costs](https://devcenter.heroku.com/articles/github-integration-review-apps#review-apps-management-and-costs)
 - [AutoIdle Heroku Add-on](https://devcenter.heroku.com/articles/autoidle)
 - [AutoIdle Website](https://autoidle.com/)
