@@ -33,5 +33,6 @@ or
 - [Heroku Review Apps](https://devcenter.heroku.com/articles/github-integration-review-apps)
 - [Review Apps Management and Costs](https://devcenter.heroku.com/articles/github-integration-review-apps#review-apps-management-and-costs)
 - [Using Add-ons in Review Apps](https://devcenter.heroku.com/articles/github-integration-review-apps#environments-in-app-json)
-- [AutoIdle Heroku Add-on](https://devcenter.heroku.com/articles/autoidle)
+- [AutoIdle Heroku Add-on Docs](https://devcenter.heroku.com/articles/autoidle)
+- [AutoIdle Plans and Pricing](https://elements.heroku.com/addons/autoidle)
 - [AutoIdle Website](https://autoidle.com/)
