@@ -2,6 +2,8 @@
 
 This project utilizes Heroku to create review apps for pull requests in GitHub. It also uses AutoIdle to automatically put review apps to sleep when not in use, saving you money.
 
+You can [view the demo here](https://review-apps-and-autoidle.herokuapp.com/) or [read the tutorial here](https://betterprogramming.pub/how-to-create-review-apps-on-heroku-799f548fcc5e?sk=7a5ed5a22afc4dc621a708fb83691c09).
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
@@ -28,6 +30,7 @@ or
 
 ## Documentation and Resources
 
+- [Article - How to Create Review Apps on Heroku](https://betterprogramming.pub/how-to-create-review-apps-on-heroku-799f548fcc5e?sk=7a5ed5a22afc4dc621a708fb83691c09)
 - [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 - [Heroku Pipelines](https://devcenter.heroku.com/articles/pipelines)
 - [Heroku Review Apps](https://devcenter.heroku.com/articles/github-integration-review-apps)
